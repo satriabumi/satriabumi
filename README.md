@@ -16,13 +16,8 @@ I'm interested in **Frontend Development**, **Android App Development**, and **U
 
 ---
 
-### 📩 Social Media:
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+### 🌐 Social Media:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satriabumik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-kadek-agung-bagus-satria-bumi-kelana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satriabumi25@gmail.com) 
 
 ---
 
@@ -31,3 +26,5 @@ I'm interested in **Frontend Development**, **Android App Development**, and **U
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satriabumi/satriabumi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/satriabumi/satriabumi/output/pacman-contribution-graph.svg">
 </picture>
+
+###
