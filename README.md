@@ -19,11 +19,6 @@ I'm interested in **Frontend Development**, **Android App Development**, and **U
 ### 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satriabumik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-kadek-agung-bagus-satria-bumi-kelana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satriabumi25@gmail.com) 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satriabumi/satriabumi/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satriabumi/satriabumi/main/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/satriabumi/satriabumi/main/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/satriabumi/satriabumi/output/snake.svg" alt="Snake animation" />
 
 ###
