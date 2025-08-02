@@ -22,7 +22,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: satriabumi
-          max_years: 1
 
       - name: push pacman-contribution-graph.svg to the main branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
